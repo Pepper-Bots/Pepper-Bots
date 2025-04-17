@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !
 
-<!--
-**Pepper-Bots/Pepper-Bots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut, moi c’est Hélène ! 🌱  
+Actuellement en formation **Conceptrice Développeuse d'Applications**, je poursuis bientôt un **Master en Ingénierie Informatique** pour aller encore plus loin dans le monde passionnant du développement.
 
-Here are some ideas to get you started:
+💻 Je code en **Python**, **Java**, **PHP**, **JavaScript** et je me forme activement à des frameworks tels que **Spring Boot**, **Spring Security**, **React**, **Angular**, **Bootstrap**...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Ce GitHub est mon terrain de jeu (et d'apprentissage) :  
+- des **projets d'applications** en Java,  
+- une **grosse application de gestion** en Spring Boot & Angular,  
+- des **jeux Python**,  
+- et bien d'autres projets en cours...
+
+✨ J’aime créer, apprendre, bidouiller, et donner vie à des idées qui, parfois, deviennent de vrais projets.
+
+📫 Envie d'échanger ? Discutons tech, projets ou même d’un prochain challenge à relever ensemble !
+
+---
+
+> *"Le code, c’est un peu comme une poésie logique. Et chaque bug, une opportunité d’apprendre."*
+
