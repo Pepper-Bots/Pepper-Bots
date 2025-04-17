@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/helenerizzon/helenerizzon/raw/main/assets/A_warm_digital_illustration_welcomes_Hélène_Rizzon.png" alt="Bienvenue sur le GitHub d'Hélène Rizzon" />
+</p>
+
 # 👋 Bienvenue sur mon GitHub !
 
 Salut, moi c’est Hélène ! 🌱  
