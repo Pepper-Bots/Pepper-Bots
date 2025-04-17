@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Pepper-Bots/Pepper-Bots/raw/main/assets/A_warm_digital_illustration_welcomes_Hélène_Rizzon.png" alt="Bienvenue sur le GitHub d'Hélène Rizzon" />
+  <img src="https://github.com/Pepper-Bots/Pepper-Bots/raw/main/assets/ChatGPT Image 17 avr. 2025, 13_45_07.png" alt="Bienvenue sur le GitHub d'Hélène Rizzon" />
 </p>
 
 
