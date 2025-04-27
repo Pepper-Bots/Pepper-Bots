@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Pepper-Bots/Pepper-Bots/raw/main/assets/ChatGPT Image 17 avr. 2025, 13_45_07.png" alt="Bienvenue sur le GitHub d'Hélène Rizzon" />
-</p>
-![ImageGithub](https://github.com/user-attachments/assets/d553e62e-4236-46fc-9cab-1d33c4b72719)
-
 
 # 👋 Bienvenue sur mon GitHub !
 
